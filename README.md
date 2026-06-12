@@ -1,4 +1,4 @@
-# AGRINHO-2026 <span style="color: red">Este texto é vermelho</span>
+# AGRINHO-2026
 
 Agro forte, futuro sustentável, equilibrio entre produçao e meio ambiente
 
