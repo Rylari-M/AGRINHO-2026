@@ -1,4 +1,4 @@
-                    # AGRINHO-2026
+# AGRINHO-2026
 
 Agro forte, futuro sustentável, equilibrio entre produçao e meio ambiente
 
